@@ -1,3 +1,4 @@
+// Classe desenvolvida para abstrair o processo de criação de classes e herança.
 (function(){
 const _extend = require('./Extend');
 
